@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "atlas-t-pose",
+      "name": "Atlas / T-Pose",
+      "filename": "models/atlas-t-pose.glb",
+      "objFilename": "models/atlas-t-pose.obj",
+      "vertices": 4500,
+      "faces": 1500,
+      "flatShading": true,
+      "preset": "stylized-tpose",
+      "generatedAt": "2026-10-25T16:36:48.856415+00:00",
+      "bytes": 145288
+    },
+    {
+      "id": "atlas-study",
+      "name": "Atlas / Study",
+      "filename": "models/atlas-study.glb",
+      "objFilename": "models/atlas-study.obj",
+      "vertices": 2400,
+      "faces": 800,
+      "flatShading": true,
+      "preset": "stylized-tpose",
+      "generatedAt": "2026-10-25T16:36:50.866439+00:00",
+      "bytes": 78084
+    },
+    {
+      "id": "atlas-refined",
+      "name": "Atlas / Refined",
+      "filename": "models/atlas-refined.glb",
+      "objFilename": "models/atlas-refined.obj",
+      "vertices": 1502,
+      "faces": 3000,
+      "flatShading": false,
+      "preset": "stylized-tpose",
+      "generatedAt": "2026-10-25T16:36:52.842250+00:00",
+      "bytes": 79344
+    }
+  ]
+}

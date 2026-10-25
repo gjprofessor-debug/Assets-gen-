@@ -1,0 +1,7 @@
+# Tested on Python 3.11. Pin exports and decimation for reproducible builds.
+numpy==2.2.6
+scipy==1.15.3
+trimesh==4.7.4
+fast-simplification==0.1.11
+pygltflib==1.16.5
+networkx==3.4.2
